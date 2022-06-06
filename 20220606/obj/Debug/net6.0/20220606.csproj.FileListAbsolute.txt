@@ -1,0 +1,15 @@
+C:\source\projects\20220606\20220606\bin\Debug\net6.0\20220606.exe
+C:\source\projects\20220606\20220606\bin\Debug\net6.0\20220606.deps.json
+C:\source\projects\20220606\20220606\bin\Debug\net6.0\20220606.runtimeconfig.json
+C:\source\projects\20220606\20220606\bin\Debug\net6.0\20220606.dll
+C:\source\projects\20220606\20220606\bin\Debug\net6.0\20220606.pdb
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\20220606.csproj.AssemblyReference.cache
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\20220606.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\20220606.AssemblyInfoInputs.cache
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\20220606.AssemblyInfo.cs
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\20220606.csproj.CoreCompileInputs.cache
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\20220606.dll
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\refint\20220606.dll
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\20220606.pdb
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\20220606.genruntimeconfig.cache
+C:\source\projects\20220606\20220606\obj\Debug\net6.0\ref\20220606.dll
